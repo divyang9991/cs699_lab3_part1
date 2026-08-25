@@ -1,7 +1,8 @@
 *{
     margin:0;
     padding:0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: "Fira Code", monospace,Arial, sans-serif;
     --first_color: #000000;
     /* --second_color:#b4e3fa; */
     --second_color:#e8e7e7;
