@@ -154,7 +154,8 @@
 }
 
 .links, .links>ul, .links>ul>li>a{
-    background-color:#880d1e;
+    /* background-color:#880d1e; */
+    background-color:#30ab75;
 }
 
 #about{
