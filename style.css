@@ -40,9 +40,9 @@
 }
 
 .container_right>.my-photo{
-    height:17rem;
+    height:25rem;
     width:auto;
-    border:solid 0.2rem black;
+    border:solid 0.5rem black;
 }
 
 
