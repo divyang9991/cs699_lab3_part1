@@ -1,0 +1,5 @@
+* 6305b75 - (11 minutes ago) photo size and border width increased - divyang9991 (HEAD -> main, new_version)
+* b46f194 - (13 minutes ago) one line added in the home page information section - divyang9991
+* e7e7dec - (25 minutes ago) changed the font to font=fira code - divyang9991
+* 7c29fa8 - (45 minutes ago) navbar color changed - divyang9991
+* 308cb54 - (55 minutes ago) project files added - divyang9991

@@ -1,0 +1,28 @@
+diff --git a/index.html b/index.html
+index 9f78fbe..82736f2 100644
+--- a/index.html
++++ b/index.html
+@@ -33,7 +33,6 @@
+                 <h2 class="info"><i>M.Tech T.A.</i></h2>
+                 <h2 class="info">Computer Science And Engineering Department</h2>
+                 <h2 class="info"><b>Indian Institute of Technology, Bombay</b></h2>
+-                <h2 class="info"><b>BE. Cse Data science graduate</b></h2>
+             </div>
+         </div>
+         <div class="container_right">
+diff --git a/style.css b/style.css
+index 01f4e3d..018ca8f 100644
+--- a/style.css
++++ b/style.css
+@@ -40,9 +40,9 @@
+ }
+ 
+ .container_right>.my-photo{
+-    height:25rem;
++    height:17rem;
+     width:auto;
+-    border:solid 0.5rem black;
++    border:solid 0.2rem black;
+ }
+ 
+ 

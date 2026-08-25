@@ -1,0 +1,5 @@
+* 6305b75 (HEAD -> main, new_version) photo size and border width increased
+* b46f194 one line added in the home page information section
+* e7e7dec changed the font to font=fira code
+* 7c29fa8 navbar color changed
+* 308cb54 project files added
